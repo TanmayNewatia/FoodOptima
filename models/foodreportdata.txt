@@ -1,0 +1,1878 @@
+[
+  {
+    "query": {
+      "fooditem": "Masala Dosa",
+      "area_of_food_wasted": "98000",
+      "area_of_plate_total_area": "300000",
+      "percentage_of_food_wasted": "32%",
+      "time_of_meal": "Breakfast",
+      "age_of_person": "25",
+      "place_where_food_was_eaten": "Restaurant"
+    },
+    "query_output": {
+      "consumer_solution": "Request half portions if unsure of finishing or share with others to minimize waste.",
+      "management_solution": "Offer dosa in smaller sizes or half-portion options for breakfast diners."
+    }
+  },
+  {
+    "query": {
+      "fooditem": "Chicken Biryani",
+      "area_of_food_wasted": "450000",
+      "area_of_plate_total_area": "900000",
+      "percentage_of_food_wasted": "50%",
+      "time_of_meal": "Lunch",
+      "age_of_person": "34",
+      "place_where_food_was_eaten": "Office Cafeteria"
+    },
+    "query_output": {
+      "consumer_solution": "Opt for smaller servings if appetite is low, or take leftovers to eat later.",
+      "management_solution": "Provide customizable portion sizes and allow employees to select smaller servings."
+    }
+  },
+  {
+    "query": {
+      "fooditem": "Aloo Paratha",
+      "area_of_food_wasted": "120000",
+      "area_of_plate_total_area": "300000",
+      "percentage_of_food_wasted": "40%",
+      "time_of_meal": "Breakfast",
+      "age_of_person": "19",
+      "place_where_food_was_eaten": "Home"
+    },
+    "query_output": {
+      "consumer_solution": "Start with one paratha and add more if still hungry.",
+      "management_solution": "Encourage smaller servings for family members to help reduce waste."
+    }
+  },
+  {
+    "query": {
+      "fooditem": "Vegetable Thali",
+      "area_of_food_wasted": "250000",
+      "area_of_plate_total_area": "700000",
+      "percentage_of_food_wasted": "35.7%",
+      "time_of_meal": "Dinner",
+      "age_of_person": "45",
+      "place_where_food_was_eaten": "Restaurant"
+    },
+    "query_output": {
+      "consumer_solution": "Ask for selective items in the thali or request the removal of items unlikely to be eaten.",
+      "management_solution": "Provide a ‘create your own thali’ option for diners to customize portions."
+    }
+  },
+  {
+    "query": {
+      "fooditem": "Paneer Butter Masala",
+      "area_of_food_wasted": "85000",
+      "area_of_plate_total_area": "300000",
+      "percentage_of_food_wasted": "28.3%",
+      "time_of_meal": "Lunch",
+      "age_of_person": "30",
+      "place_where_food_was_eaten": "Restaurant"
+    },
+    "query_output": {
+      "consumer_solution": "Order with caution if appetite varies, and share if possible to avoid leftovers.",
+      "management_solution": "Offer half or quarter portions for frequently ordered dishes like curries."
+    }
+  },
+  {
+    "query": {
+      "fooditem": "Rasgulla",
+      "area_of_food_wasted": "50000",
+      "area_of_plate_total_area": "120000",
+      "percentage_of_food_wasted": "41.6%",
+      "time_of_meal": "Dessert",
+      "age_of_person": "26",
+      "place_where_food_was_eaten": "Home"
+    },
+    "query_output": {
+      "consumer_solution": "Limit dessert portions based on hunger level to avoid wastage.",
+      "management_solution": "Offer single-piece servings rather than multiple to reduce waste."
+    }
+  },
+  {
+    "query": {
+      "fooditem": "Pav Bhaji",
+      "area_of_food_wasted": "70000",
+      "area_of_plate_total_area": "200000",
+      "percentage_of_food_wasted": "35%",
+      "time_of_meal": "Dinner",
+      "age_of_person": "40",
+      "place_where_food_was_eaten": "Cafeteria"
+    },
+    "query_output": {
+      "consumer_solution": "Order one pav initially and add more if still hungry.",
+      "management_solution": "Allow customers to order bread separately to manage intake better."
+    }
+  },
+  {
+    "query": {
+      "fooditem": "Gulab Jamun",
+      "area_of_food_wasted": "20000",
+      "area_of_plate_total_area": "60000",
+      "percentage_of_food_wasted": "33.3%",
+      "time_of_meal": "Dessert",
+      "age_of_person": "55",
+      "place_where_food_was_eaten": "Event"
+    },
+    "query_output": {
+      "consumer_solution": "Serve only one piece to avoid food waste and manage portion sizes.",
+      "management_solution": "Provide single-serve desserts to cater to varying appetites."
+    }
+  },
+  {
+    "query": {
+      "fooditem": "Chole Bhature",
+      "area_of_food_wasted": "110000",
+      "area_of_plate_total_area": "400000",
+      "percentage_of_food_wasted": "27.5%",
+      "time_of_meal": "Lunch",
+      "age_of_person": "42",
+      "place_where_food_was_eaten": "Restaurant"
+    },
+    "query_output": {
+      "consumer_solution": "Opt for half-portion or skip extra bhature if appetite is low.",
+      "management_solution": "Offer a mini or customizable portion option for heavier meals like Chole Bhature."
+    }
+  },
+  {
+    "query": {
+      "fooditem": "Rajma Chawal",
+      "area_of_food_wasted": "60000",
+      "area_of_plate_total_area": "250000",
+      "percentage_of_food_wasted": "24%",
+      "time_of_meal": "Lunch",
+      "age_of_person": "60",
+      "place_where_food_was_eaten": "Home"
+    },
+    "query_output": {
+      "consumer_solution": "Cook smaller quantities and store any extras for later.",
+      "management_solution": "Encourage family members to portion meals to suit their hunger."
+    }
+  },
+    {
+      "query": {
+        "fooditem": "Samosa",
+        "area_of_food_wasted": "40000",
+        "area_of_plate_total_area": "120000",
+        "percentage_of_food_wasted": "33%",
+        "time_of_meal": "Evening Snack",
+        "age_of_person": "23",
+        "place_where_food_was_eaten": "College Canteen"
+      },
+      "query_output": {
+        "consumer_solution": "Order only one or split with a friend if not very hungry.",
+        "management_solution": "Offer a single-piece option at a lower price to reduce waste."
+      }
+    },
+    {
+      "query": {
+        "fooditem": "Dhokla",
+        "area_of_food_wasted": "75000",
+        "area_of_plate_total_area": "220000",
+        "percentage_of_food_wasted": "34%",
+        "time_of_meal": "Breakfast",
+        "age_of_person": "28",
+        "place_where_food_was_eaten": "Office Canteen"
+      },
+      "query_output": {
+        "consumer_solution": "Choose smaller portions and reorder if still hungry.",
+        "management_solution": "Offer small portion packs for items like dhokla to allow more choice and less waste."
+      }
+    },
+    {
+      "query": {
+        "fooditem": "Pani Puri",
+        "area_of_food_wasted": "30000",
+        "area_of_plate_total_area": "100000",
+        "percentage_of_food_wasted": "30%",
+        "time_of_meal": "Evening Snack",
+        "age_of_person": "32",
+        "place_where_food_was_eaten": "Street Vendor"
+      },
+      "query_output": {
+        "consumer_solution": "Order fewer puris and increase only if needed.",
+        "management_solution": "Offer smaller set portions with the option to add extra puris if needed."
+      }
+    },
+    {
+      "query": {
+        "fooditem": "Mutton Rogan Josh",
+        "area_of_food_wasted": "120000",
+        "area_of_plate_total_area": "450000",
+        "percentage_of_food_wasted": "27%",
+        "time_of_meal": "Dinner",
+        "age_of_person": "35",
+        "place_where_food_was_eaten": "Restaurant"
+      },
+      "query_output": {
+        "consumer_solution": "Consider sharing main dishes like curries, especially when ordering multiple.",
+        "management_solution": "Offer half-portion sizes for curries to cater to varying appetites."
+      }
+    },
+    {
+      "query": {
+        "fooditem": "Fish Curry",
+        "area_of_food_wasted": "50000",
+        "area_of_plate_total_area": "180000",
+        "percentage_of_food_wasted": "27.8%",
+        "time_of_meal": "Lunch",
+        "age_of_person": "40",
+        "place_where_food_was_eaten": "Home"
+      },
+      "query_output": {
+        "consumer_solution": "Take smaller servings initially, adding more if needed.",
+        "management_solution": "Encourage family members to serve themselves in smaller portions to avoid wastage."
+      }
+    },
+    {
+      "query": {
+        "fooditem": "Kadai Paneer",
+        "area_of_food_wasted": "90000",
+        "area_of_plate_total_area": "250000",
+        "percentage_of_food_wasted": "36%",
+        "time_of_meal": "Dinner",
+        "age_of_person": "30",
+        "place_where_food_was_eaten": "Office Cafeteria"
+      },
+      "query_output": {
+        "consumer_solution": "Consider opting for smaller portions if unsure about finishing.",
+        "management_solution": "Provide quarter or half portions to accommodate individual preferences."
+      }
+    },
+    {
+      "query": {
+        "fooditem": "Daal Baati Churma",
+        "area_of_food_wasted": "100000",
+        "area_of_plate_total_area": "350000",
+        "percentage_of_food_wasted": "28.5%",
+        "time_of_meal": "Lunch",
+        "age_of_person": "50",
+        "place_where_food_was_eaten": "Restaurant"
+      },
+      "query_output": {
+        "consumer_solution": "Share baati portions or take leftovers home if you can’t finish.",
+        "management_solution": "Offer customizable portion sizes to reduce waste for dishes like daal baati."
+      }
+    },
+    {
+      "query": {
+        "fooditem": "Lassi",
+        "area_of_food_wasted": "30000",
+        "area_of_plate_total_area": "90000",
+        "percentage_of_food_wasted": "33.3%",
+        "time_of_meal": "Lunch",
+        "age_of_person": "45",
+        "place_where_food_was_eaten": "Home"
+      },
+      "query_output": {
+        "consumer_solution": "Order a small size if unsure about finishing.",
+        "management_solution": "Offer lassi in smaller serving sizes to reduce waste."
+      }
+    },
+    {
+      "query": {
+        "fooditem": "Idli Sambar",
+        "area_of_food_wasted": "60000",
+        "area_of_plate_total_area": "200000",
+        "percentage_of_food_wasted": "30%",
+        "time_of_meal": "Breakfast",
+        "age_of_person": "27",
+        "place_where_food_was_eaten": "Home"
+      },
+      "query_output": {
+        "consumer_solution": "Start with two idlis and reorder if needed.",
+        "management_solution": "Encourage family to serve smaller portions initially to avoid wastage."
+      }
+    },
+    {
+      "query": {
+        "fooditem": "Vada Pav",
+        "area_of_food_wasted": "40000",
+        "area_of_plate_total_area": "150000",
+        "percentage_of_food_wasted": "26.7%",
+        "time_of_meal": "Evening Snack",
+        "age_of_person": "18",
+        "place_where_food_was_eaten": "College Canteen"
+      },
+      "query_output": {
+        "consumer_solution": "Order a single vada pav initially, adding more if needed.",
+        "management_solution": "Offer an option to buy a single or half portion."
+      }
+    },
+    {
+      "query": {
+        "fooditem": "Pulao",
+        "area_of_food_wasted": "70000",
+        "area_of_plate_total_area": "300000",
+        "percentage_of_food_wasted": "23.3%",
+        "time_of_meal": "Lunch",
+        "age_of_person": "22",
+        "place_where_food_was_eaten": "College Cafeteria"
+      },
+      "query_output": {
+        "consumer_solution": "Order small portions or share to avoid over-serving.",
+        "management_solution": "Offer smaller portion options for dishes like pulao to accommodate varied appetites."
+      }
+    },
+    {
+      "query": {
+        "fooditem": "Tandoori Roti",
+        "area_of_food_wasted": "55000",
+        "area_of_plate_total_area": "200000",
+        "percentage_of_food_wasted": "27.5%",
+        "time_of_meal": "Dinner",
+        "age_of_person": "29",
+        "place_where_food_was_eaten": "Restaurant"
+      },
+      "query_output": {
+        "consumer_solution": "Order one roti at a time if unsure about finishing.",
+        "management_solution": "Offer roti in single pieces rather than pairs to minimize leftovers."
+      }
+    },
+    {
+      "query": {
+        "fooditem": "Raj Kachori",
+        "area_of_food_wasted": "60000",
+        "area_of_plate_total_area": "150000",
+        "percentage_of_food_wasted": "40%",
+        "time_of_meal": "Evening Snack",
+        "age_of_person": "35",
+        "place_where_food_was_eaten": "Street Vendor"
+      },
+      "query_output": {
+        "consumer_solution": "Consider sharing the item or request a smaller serving.",
+        "management_solution": "Provide smaller portions or customizable servings to accommodate customer preferences."
+      }
+    },
+    {
+        "query": {
+          "fooditem": "Palak Paneer",
+          "area_of_food_wasted": "80000",
+          "area_of_plate_total_area": "280000",
+          "percentage_of_food_wasted": "28.6%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "36",
+          "place_where_food_was_eaten": "Family Gathering"
+        },
+        "query_output": {
+          "consumer_solution": "Consider taking smaller portions initially; order or serve more as needed.",
+          "management_solution": "Provide the option for half servings of dishes like palak paneer."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Masala Dosa",
+          "area_of_food_wasted": "45000",
+          "area_of_plate_total_area": "150000",
+          "percentage_of_food_wasted": "30%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "24",
+          "place_where_food_was_eaten": "Hotel Buffet"
+        },
+        "query_output": {
+          "consumer_solution": "Choose a small or mini dosa option if appetite is uncertain.",
+          "management_solution": "Offer mini dosas or half portions for those preferring lighter meals."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Mysore Pak",
+          "area_of_food_wasted": "15000",
+          "area_of_plate_total_area": "50000",
+          "percentage_of_food_wasted": "30%",
+          "time_of_meal": "Dessert",
+          "age_of_person": "45",
+          "place_where_food_was_eaten": "Wedding Reception"
+        },
+        "query_output": {
+          "consumer_solution": "Start with a smaller piece; take more only if desired.",
+          "management_solution": "Serve sweets in bite-sized portions to reduce wastage."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Biryani",
+          "area_of_food_wasted": "100000",
+          "area_of_plate_total_area": "350000",
+          "percentage_of_food_wasted": "28.6%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "38",
+          "place_where_food_was_eaten": "Office Party"
+        },
+        "query_output": {
+          "consumer_solution": "Order smaller portions or share to avoid excess.",
+          "management_solution": "Provide options for half and full portions for heavy dishes like biryani."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Rasgulla",
+          "area_of_food_wasted": "25000",
+          "area_of_plate_total_area": "75000",
+          "percentage_of_food_wasted": "33.3%",
+          "time_of_meal": "Dessert",
+          "age_of_person": "30",
+          "place_where_food_was_eaten": "Festival Celebration"
+        },
+        "query_output": {
+          "consumer_solution": "Serve yourself only one at first; take more if needed.",
+          "management_solution": "Serve single portions initially, with the option for extra pieces upon request."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Chole Bhature",
+          "area_of_food_wasted": "95000",
+          "area_of_plate_total_area": "300000",
+          "percentage_of_food_wasted": "31.6%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "33",
+          "place_where_food_was_eaten": "Street Food Stall"
+        },
+        "query_output": {
+          "consumer_solution": "Order only one bhatura initially if you are unsure of finishing.",
+          "management_solution": "Offer a single bhatura option instead of the usual two."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Paneer Tikka",
+          "area_of_food_wasted": "20000",
+          "area_of_plate_total_area": "70000",
+          "percentage_of_food_wasted": "28.6%",
+          "time_of_meal": "Evening Snack",
+          "age_of_person": "40",
+          "place_where_food_was_eaten": "Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Order a smaller portion if you are trying it for the first time.",
+          "management_solution": "Provide an option to order half portions of appetizers like paneer tikka."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Rajma Chawal",
+          "area_of_food_wasted": "85000",
+          "area_of_plate_total_area": "300000",
+          "percentage_of_food_wasted": "28.3%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "50",
+          "place_where_food_was_eaten": "Home"
+        },
+        "query_output": {
+          "consumer_solution": "Start with smaller servings; take more if still hungry.",
+          "management_solution": "Serve family-style, allowing diners to take portions based on appetite."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Papri Chaat",
+          "area_of_food_wasted": "40000",
+          "area_of_plate_total_area": "120000",
+          "percentage_of_food_wasted": "33.3%",
+          "time_of_meal": "Evening Snack",
+          "age_of_person": "27",
+          "place_where_food_was_eaten": "Street Vendor"
+        },
+        "query_output": {
+          "consumer_solution": "Order a smaller portion or share with a friend to prevent wastage.",
+          "management_solution": "Offer mini portions to allow flexibility for customers."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Malai Kofta",
+          "area_of_food_wasted": "70000",
+          "area_of_plate_total_area": "250000",
+          "percentage_of_food_wasted": "28%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "39",
+          "place_where_food_was_eaten": "Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Order half portion or share with someone to avoid excess.",
+          "management_solution": "Introduce half-portion sizes for heavy curries like malai kofta."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Naan",
+          "area_of_food_wasted": "45000",
+          "area_of_plate_total_area": "150000",
+          "percentage_of_food_wasted": "30%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "35",
+          "place_where_food_was_eaten": "Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Order one naan at a time, especially if eating multiple dishes.",
+          "management_solution": "Offer naan in single-piece servings rather than pairs to reduce wastage."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Kheer",
+          "area_of_food_wasted": "20000",
+          "area_of_plate_total_area": "60000",
+          "percentage_of_food_wasted": "33.3%",
+          "time_of_meal": "Dessert",
+          "age_of_person": "42",
+          "place_where_food_was_eaten": "Home"
+        },
+        "query_output": {
+          "consumer_solution": "Serve a small portion first; take more only if needed.",
+          "management_solution": "Encourage smaller initial servings, allowing additional servings if desired."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Rava Idli",
+          "area_of_food_wasted": "32000",
+          "area_of_plate_total_area": "100000",
+          "percentage_of_food_wasted": "32%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "25",
+          "place_where_food_was_eaten": "Cafe"
+        },
+        "query_output": {
+          "consumer_solution": "Order one idli at a time if appetite is uncertain.",
+          "management_solution": "Offer idlis individually instead of as a pair to prevent wastage."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Samosa",
+          "area_of_food_wasted": "15000",
+          "area_of_plate_total_area": "50000",
+          "percentage_of_food_wasted": "30%",
+          "time_of_meal": "Evening Snack",
+          "age_of_person": "22",
+          "place_where_food_was_eaten": "Office Canteen"
+        },
+        "query_output": {
+          "consumer_solution": "Take a smaller portion initially; more can be added if needed.",
+          "management_solution": "Offer individual samosas instead of servings of two to minimize waste."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Vada Pav",
+          "area_of_food_wasted": "18000",
+          "area_of_plate_total_area": "70000",
+          "percentage_of_food_wasted": "25.7%",
+          "time_of_meal": "Snack",
+          "age_of_person": "29",
+          "place_where_food_was_eaten": "Street Stall"
+        },
+        "query_output": {
+          "consumer_solution": "Consider taking only one vada pav if unsure of hunger level.",
+          "management_solution": "Offer smaller versions or single pieces to cater to lighter appetites."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Mutton Curry",
+          "area_of_food_wasted": "120000",
+          "area_of_plate_total_area": "400000",
+          "percentage_of_food_wasted": "30%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "48",
+          "place_where_food_was_eaten": "Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Opt for a half portion or share with others if appetite is moderate.",
+          "management_solution": "Provide half-portion options to avoid wastage of heavy curries."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Dhokla",
+          "area_of_food_wasted": "10000",
+          "area_of_plate_total_area": "50000",
+          "percentage_of_food_wasted": "20%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "34",
+          "place_where_food_was_eaten": "Home"
+        },
+        "query_output": {
+          "consumer_solution": "Start with a smaller portion of dhokla and add more if needed.",
+          "management_solution": "Slice dhokla into smaller pieces to allow flexible portion control."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Mutton Biryani",
+          "area_of_food_wasted": "110000",
+          "area_of_plate_total_area": "450000",
+          "percentage_of_food_wasted": "24.4%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "41",
+          "place_where_food_was_eaten": "Family Party"
+        },
+        "query_output": {
+          "consumer_solution": "Take smaller servings initially, as this dish is often quite filling.",
+          "management_solution": "Offer smaller servings, especially for rice-based dishes like biryani."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Jalebi",
+          "area_of_food_wasted": "15000",
+          "area_of_plate_total_area": "60000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Dessert",
+          "age_of_person": "26",
+          "place_where_food_was_eaten": "Wedding"
+        },
+        "query_output": {
+          "consumer_solution": "Opt for one or two pieces initially to prevent over-ordering.",
+          "management_solution": "Serve small portions or individual jalebis to avoid dessert wastage."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Chole Kulche",
+          "area_of_food_wasted": "55000",
+          "area_of_plate_total_area": "220000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "32",
+          "place_where_food_was_eaten": "Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Order one kulcha at a time, taking additional only if needed.",
+          "management_solution": "Provide single kulcha servings to minimize potential waste."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Upma",
+          "area_of_food_wasted": "20000",
+          "area_of_plate_total_area": "80000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "23",
+          "place_where_food_was_eaten": "College Canteen"
+        },
+        "query_output": {
+          "consumer_solution": "Start with a small serving of upma, as it’s filling; add more if necessary.",
+          "management_solution": "Offer upma in smaller portion sizes to allow for flexible consumption."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Bhindi Fry",
+          "area_of_food_wasted": "50000",
+          "area_of_plate_total_area": "200000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "35",
+          "place_where_food_was_eaten": "Home"
+        },
+        "query_output": {
+          "consumer_solution": "Serve smaller portions initially and add more if desired.",
+          "management_solution": "Encourage serving in smaller, manageable portions to avoid waste."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Paneer Butter Masala",
+          "area_of_food_wasted": "70000",
+          "area_of_plate_total_area": "280000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "39",
+          "place_where_food_was_eaten": "Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Order a smaller serving or half portion if eating alone.",
+          "management_solution": "Provide the option of half-portions for high-calorie items like paneer butter masala."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Poori Bhaji",
+          "area_of_food_wasted": "30000",
+          "area_of_plate_total_area": "120000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "42",
+          "place_where_food_was_eaten": "Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Order two pooris initially; add more only if necessary.",
+          "management_solution": "Serve pooris individually instead of fixed portions to allow portion control."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Aloo Paratha",
+          "area_of_food_wasted": "40000",
+          "area_of_plate_total_area": "160000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "50",
+          "place_where_food_was_eaten": "Home"
+        },
+        "query_output": {
+          "consumer_solution": "Take one paratha initially; cook more only if appetite persists.",
+          "management_solution": "Provide the option for half parathas to allow for better portion control."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Idli Sambar",
+          "area_of_food_wasted": "18000",
+          "area_of_plate_total_area": "60000",
+          "percentage_of_food_wasted": "30%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "37",
+          "place_where_food_was_eaten": "Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Order one idli first, as additional can be taken if required.",
+          "management_solution": "Serve idlis individually, allowing diners to control portions."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Gulab Jamun",
+          "area_of_food_wasted": "12000",
+          "area_of_plate_total_area": "40000",
+          "percentage_of_food_wasted": "30%",
+          "time_of_meal": "Dessert",
+          "age_of_person": "40",
+          "place_where_food_was_eaten": "Festival Gathering"
+        },
+        "query_output": {
+          "consumer_solution": "Start with one gulab jamun to prevent unnecessary leftovers.",
+          "management_solution": "Offer desserts in single-piece servings to help reduce wastage."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Bhel Puri",
+          "area_of_food_wasted": "22000",
+          "area_of_plate_total_area": "88000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Evening Snack",
+          "age_of_person": "19",
+          "place_where_food_was_eaten": "College Canteen"
+        },
+        "query_output": {
+          "consumer_solution": "Order a small portion of bhel puri if eating alone.",
+          "management_solution": "Offer smaller bhel puri portions to allow for individual appetites."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Rajma Chawal",
+          "area_of_food_wasted": "65000",
+          "area_of_plate_total_area": "300000",
+          "percentage_of_food_wasted": "21.7%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "28",
+          "place_where_food_was_eaten": "Home"
+        },
+        "query_output": {
+          "consumer_solution": "Serve half portions of rice at first, as rajma can be filling.",
+          "management_solution": "Encourage half portions for heavy rice meals to reduce waste."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Misal Pav",
+          "area_of_food_wasted": "28000",
+          "area_of_plate_total_area": "90000",
+          "percentage_of_food_wasted": "31.1%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "30",
+          "place_where_food_was_eaten": "Street Cart"
+        },
+        "query_output": {
+          "consumer_solution": "Start with one pav and add as needed, as misal is quite filling.",
+          "management_solution": "Offer single pav servings with misal for portion control."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Aloo Tikki",
+          "area_of_food_wasted": "15000",
+          "area_of_plate_total_area": "70000",
+          "percentage_of_food_wasted": "21.4%",
+          "time_of_meal": "Evening Snack",
+          "age_of_person": "25",
+          "place_where_food_was_eaten": "Street Market"
+        },
+        "query_output": {
+          "consumer_solution": "Order a single tikki initially, as more can be added if needed.",
+          "management_solution": "Sell individual tikkis to reduce leftover waste."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Fish Curry with Rice",
+          "area_of_food_wasted": "120000",
+          "area_of_plate_total_area": "400000",
+          "percentage_of_food_wasted": "30%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "45",
+          "place_where_food_was_eaten": "Beachside Shack"
+        },
+        "query_output": {
+          "consumer_solution": "Order half portions if trying the dish for the first time.",
+          "management_solution": "Offer tasting portions for new or specialty items like fish curry."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Palak Paneer",
+          "area_of_food_wasted": "50000",
+          "area_of_plate_total_area": "200000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "37",
+          "place_where_food_was_eaten": "Office Canteen"
+        },
+        "query_output": {
+          "consumer_solution": "Take smaller servings of rich gravies initially.",
+          "management_solution": "Serve smaller portions with the option for additional servings."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Sev Puri",
+          "area_of_food_wasted": "18000",
+          "area_of_plate_total_area": "80000",
+          "percentage_of_food_wasted": "22.5%",
+          "time_of_meal": "Evening Snack",
+          "age_of_person": "22",
+          "place_where_food_was_eaten": "Amusement Park"
+        },
+        "query_output": {
+          "consumer_solution": "Order fewer puris initially if unsure about the spice level.",
+          "management_solution": "Serve in customizable amounts to avoid excessive portions."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Egg Curry with Paratha",
+          "area_of_food_wasted": "55000",
+          "area_of_plate_total_area": "230000",
+          "percentage_of_food_wasted": "23.9%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "33",
+          "place_where_food_was_eaten": "Friend’s Place"
+        },
+        "query_output": {
+          "consumer_solution": "Take one paratha first, as curries are often filling.",
+          "management_solution": "Serve smaller, single parathas to allow for flexible portioning."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Papdi Chaat",
+          "area_of_food_wasted": "22000",
+          "area_of_plate_total_area": "90000",
+          "percentage_of_food_wasted": "24.4%",
+          "time_of_meal": "Evening Snack",
+          "age_of_person": "29",
+          "place_where_food_was_eaten": "Shopping Mall"
+        },
+        "query_output": {
+          "consumer_solution": "Order in smaller portions as chaat can be filling with the toppings.",
+          "management_solution": "Offer small or half servings of chaats to cater to individual appetites."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Besan Ladoo",
+          "area_of_food_wasted": "12000",
+          "area_of_plate_total_area": "50000",
+          "percentage_of_food_wasted": "24%",
+          "time_of_meal": "Dessert",
+          "age_of_person": "55",
+          "place_where_food_was_eaten": "Festival Gathering"
+        },
+        "query_output": {
+          "consumer_solution": "Take one piece initially; avoid adding multiple sweets at once.",
+          "management_solution": "Offer ladoos individually to avoid potential leftovers."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Paneer Tikka",
+          "area_of_food_wasted": "32000",
+          "area_of_plate_total_area": "100000",
+          "percentage_of_food_wasted": "32%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "40",
+          "place_where_food_was_eaten": "Corporate Event"
+        },
+        "query_output": {
+          "consumer_solution": "Take a couple of pieces initially, as tikka can be rich and filling.",
+          "management_solution": "Serve smaller portions with a variety of sides to offer more options."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Kadhi Chawal",
+          "area_of_food_wasted": "65000",
+          "area_of_plate_total_area": "300000",
+          "percentage_of_food_wasted": "21.7%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "42",
+          "place_where_food_was_eaten": "Home"
+        },
+        "query_output": {
+          "consumer_solution": "Serve smaller portions of rice initially with extra kadhi on the side.",
+          "management_solution": "Encourage flexible portioning for rice dishes to control waste."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Dosa with Sambar",
+          "area_of_food_wasted": "90000",
+          "area_of_plate_total_area": "300000",
+          "percentage_of_food_wasted": "30%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "27",
+          "place_where_food_was_eaten": "Temple Canteen"
+        },
+        "query_output": {
+          "consumer_solution": "Order a smaller dosa if appetite is uncertain.",
+          "management_solution": "Offer mini dosas for breakfast to cater to variable appetites."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Ras Malai",
+          "area_of_food_wasted": "15000",
+          "area_of_plate_total_area": "60000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Dessert",
+          "age_of_person": "60",
+          "place_where_food_was_eaten": "Family Gathering"
+        },
+        "query_output": {
+          "consumer_solution": "Take only one ras malai initially, as it is very filling.",
+          "management_solution": "Serve single-piece desserts to allow for flexible portioning."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Chana Masala with Bhatura",
+          "area_of_food_wasted": "70000",
+          "area_of_plate_total_area": "250000",
+          "percentage_of_food_wasted": "28%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "36",
+          "place_where_food_was_eaten": "Wedding Feast"
+        },
+        "query_output": {
+          "consumer_solution": "Start with one bhatura and add more if required.",
+          "management_solution": "Serve single bhatura portions to allow diners to manage intake."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Aloo Bonda",
+          "area_of_food_wasted": "10000",
+          "area_of_plate_total_area": "40000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Evening Snack",
+          "age_of_person": "31",
+          "place_where_food_was_eaten": "Tea Stall"
+        },
+        "query_output": {
+          "consumer_solution": "Order one bonda if appetite is small.",
+          "management_solution": "Offer bondas in single servings to avoid excess waste."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Pav Bhaji",
+          "area_of_food_wasted": "40000",
+          "area_of_plate_total_area": "200000",
+          "percentage_of_food_wasted": "20%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "29",
+          "place_where_food_was_eaten": "Beachside Stall"
+        },
+        "query_output": {
+          "consumer_solution": "Order fewer pavs initially, as bhaji portions can be very filling.",
+          "management_solution": "Provide pavs in pairs with option to order more as needed."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Chicken Tandoori",
+          "area_of_food_wasted": "80000",
+          "area_of_plate_total_area": "400000",
+          "percentage_of_food_wasted": "20%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "35",
+          "place_where_food_was_eaten": "Family Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Start with a small portion or shared plate if appetite is uncertain.",
+          "management_solution": "Offer half-portion sizes or family-style servings for better management."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Pani Puri",
+          "area_of_food_wasted": "10000",
+          "area_of_plate_total_area": "50000",
+          "percentage_of_food_wasted": "20%",
+          "time_of_meal": "Evening Snack",
+          "age_of_person": "23",
+          "place_where_food_was_eaten": "Street Food Stall"
+        },
+        "query_output": {
+          "consumer_solution": "Order fewer puris initially, as the taste may vary by region.",
+          "management_solution": "Offer puris in small sets to allow for flexible portions."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Bisi Bele Bath",
+          "area_of_food_wasted": "50000",
+          "area_of_plate_total_area": "250000",
+          "percentage_of_food_wasted": "20%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "26",
+          "place_where_food_was_eaten": "Temple Kitchen"
+        },
+        "query_output": {
+          "consumer_solution": "Take small portions initially, as bisi bele bath is filling.",
+          "management_solution": "Serve in medium portions with option for refills."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Dhokla",
+          "area_of_food_wasted": "12000",
+          "area_of_plate_total_area": "60000",
+          "percentage_of_food_wasted": "20%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "41",
+          "place_where_food_was_eaten": "Office Canteen"
+        },
+        "query_output": {
+          "consumer_solution": "Start with two pieces if unsure of appetite, as dhokla can be light.",
+          "management_solution": "Offer dhokla in half portions or in customizable sets."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Upma",
+          "area_of_food_wasted": "15000",
+          "area_of_plate_total_area": "70000",
+          "percentage_of_food_wasted": "21.4%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "60",
+          "place_where_food_was_eaten": "Senior Center"
+        },
+        "query_output": {
+          "consumer_solution": "Take a small portion initially, as upma can be quite dense.",
+          "management_solution": "Serve small portions with option for extra helpings."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Mutton Biryani",
+          "area_of_food_wasted": "90000",
+          "area_of_plate_total_area": "300000",
+          "percentage_of_food_wasted": "30%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "47",
+          "place_where_food_was_eaten": "Wedding Feast"
+        },
+        "query_output": {
+          "consumer_solution": "Request a half portion if unsure of appetite or trying other dishes.",
+          "management_solution": "Offer biryani in small or half plates to allow for controlled portions."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Mysore Pak",
+          "area_of_food_wasted": "18000",
+          "area_of_plate_total_area": "50000",
+          "percentage_of_food_wasted": "36%",
+          "time_of_meal": "Dessert",
+          "age_of_person": "32",
+          "place_where_food_was_eaten": "Festival Gathering"
+        },
+        "query_output": {
+          "consumer_solution": "Take only one piece as it is rich in flavor and sugar.",
+          "management_solution": "Offer single-serve portions to control dessert waste."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Keema Pav",
+          "area_of_food_wasted": "25000",
+          "area_of_plate_total_area": "100000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "39",
+          "place_where_food_was_eaten": "Corporate Cafeteria"
+        },
+        "query_output": {
+          "consumer_solution": "Start with one pav, as keema is a dense dish.",
+          "management_solution": "Serve pavs separately to allow consumers to control quantity."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Chole Bhature",
+          "area_of_food_wasted": "60000",
+          "area_of_plate_total_area": "200000",
+          "percentage_of_food_wasted": "30%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "34",
+          "place_where_food_was_eaten": "Shopping Center"
+        },
+        "query_output": {
+          "consumer_solution": "Opt for half portions if new to the dish or appetite is small.",
+          "management_solution": "Offer half-portion options for bhature dishes."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Dal Baati",
+          "area_of_food_wasted": "33000",
+          "area_of_plate_total_area": "100000",
+          "percentage_of_food_wasted": "33%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "45",
+          "place_where_food_was_eaten": "Village Festival"
+        },
+        "query_output": {
+          "consumer_solution": "Start with one baati and add more if needed.",
+          "management_solution": "Offer baati servings individually to help manage portions."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Malai Kofta",
+          "area_of_food_wasted": "55000",
+          "area_of_plate_total_area": "250000",
+          "percentage_of_food_wasted": "22%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "50",
+          "place_where_food_was_eaten": "Birthday Party"
+        },
+        "query_output": {
+          "consumer_solution": "Take a small serving, as koftas are very rich.",
+          "management_solution": "Serve koftas in smaller quantities to avoid over-serving."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Bhindi Fry",
+          "area_of_food_wasted": "20000",
+          "area_of_plate_total_area": "90000",
+          "percentage_of_food_wasted": "22.2%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "52",
+          "place_where_food_was_eaten": "Canteen"
+        },
+        "query_output": {
+          "consumer_solution": "Take a small serving, as bhindi can be filling.",
+          "management_solution": "Serve smaller portions with option for additional servings."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Idli Sambar",
+          "area_of_food_wasted": "30000",
+          "area_of_plate_total_area": "100000",
+          "percentage_of_food_wasted": "30%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "31",
+          "place_where_food_was_eaten": "Temple Prasadam Hall"
+        },
+        "query_output": {
+          "consumer_solution": "Start with one idli if appetite is small or uncertain.",
+          "management_solution": "Offer idlis individually to allow control over serving size."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Butter Chicken",
+          "area_of_food_wasted": "55000",
+          "area_of_plate_total_area": "220000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "40",
+          "place_where_food_was_eaten": "Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Order a smaller portion or plan to share if unsure of appetite.",
+          "management_solution": "Provide portion size options to help reduce leftovers."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Rajma Chawal",
+          "area_of_food_wasted": "50000",
+          "area_of_plate_total_area": "200000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "22",
+          "place_where_food_was_eaten": "College Canteen"
+        },
+        "query_output": {
+          "consumer_solution": "Take smaller initial servings as rajma is filling.",
+          "management_solution": "Offer rajma in half servings to allow flexibility."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Samosa",
+          "area_of_food_wasted": "10000",
+          "area_of_plate_total_area": "50000",
+          "percentage_of_food_wasted": "20%",
+          "time_of_meal": "Evening Snack",
+          "age_of_person": "25",
+          "place_where_food_was_eaten": "Office Breakroom"
+        },
+        "query_output": {
+          "consumer_solution": "Take only one if unsure of appetite, as samosas are heavy.",
+          "management_solution": "Serve samosas individually instead of in pairs."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Kadhi Chawal",
+          "area_of_food_wasted": "40000",
+          "area_of_plate_total_area": "180000",
+          "percentage_of_food_wasted": "22%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "34",
+          "place_where_food_was_eaten": "Home Kitchen"
+        },
+        "query_output": {
+          "consumer_solution": "Serve a small portion if appetite is variable.",
+          "management_solution": "Provide smaller kadhi servings with option for refills."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Masala Dosa",
+          "area_of_food_wasted": "35000",
+          "area_of_plate_total_area": "120000",
+          "percentage_of_food_wasted": "29%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "28",
+          "place_where_food_was_eaten": "Hotel Buffet"
+        },
+        "query_output": {
+          "consumer_solution": "Request half dosa if unsure of appetite.",
+          "management_solution": "Offer dosa halves or smaller-sized dosas at the buffet."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Vada Pav",
+          "area_of_food_wasted": "15000",
+          "area_of_plate_total_area": "70000",
+          "percentage_of_food_wasted": "21%",
+          "time_of_meal": "Snack",
+          "age_of_person": "20",
+          "place_where_food_was_eaten": "Local Food Cart"
+        },
+        "query_output": {
+          "consumer_solution": "Order one instead of two if unsure of hunger.",
+          "management_solution": "Serve vada pav individually instead of in pairs."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Fish Curry",
+          "area_of_food_wasted": "40000",
+          "area_of_plate_total_area": "180000",
+          "percentage_of_food_wasted": "22%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "42",
+          "place_where_food_was_eaten": "Coastal Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Start with a small portion as fish curry can be rich.",
+          "management_solution": "Serve fish curry in small bowls to minimize waste."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Poha",
+          "area_of_food_wasted": "20000",
+          "area_of_plate_total_area": "100000",
+          "percentage_of_food_wasted": "20%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "33",
+          "place_where_food_was_eaten": "Home"
+        },
+        "query_output": {
+          "consumer_solution": "Serve a small portion initially as poha can be filling.",
+          "management_solution": "Offer small poha portions in the serving bowl."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Dum Aloo",
+          "area_of_food_wasted": "50000",
+          "area_of_plate_total_area": "200000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "37",
+          "place_where_food_was_eaten": "Wedding Reception"
+        },
+        "query_output": {
+          "consumer_solution": "Opt for half portions as dum aloo can be rich and filling.",
+          "management_solution": "Serve dum aloo in smaller portions with refills available."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Paneer Butter Masala",
+          "area_of_food_wasted": "45000",
+          "area_of_plate_total_area": "200000",
+          "percentage_of_food_wasted": "22.5%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "29",
+          "place_where_food_was_eaten": "Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Request a small portion as paneer dishes can be very rich.",
+          "management_solution": "Provide portion size options for creamy dishes."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Kachori",
+          "area_of_food_wasted": "12000",
+          "area_of_plate_total_area": "60000",
+          "percentage_of_food_wasted": "20%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "35",
+          "place_where_food_was_eaten": "Street Stall"
+        },
+        "query_output": {
+          "consumer_solution": "Order only one kachori as it is filling.",
+          "management_solution": "Offer kachoris individually to minimize waste."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Palak Paneer",
+          "area_of_food_wasted": "40000",
+          "area_of_plate_total_area": "150000",
+          "percentage_of_food_wasted": "27%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "47",
+          "place_where_food_was_eaten": "Resort Buffet"
+        },
+        "query_output": {
+          "consumer_solution": "Take small portions as palak paneer can be heavy.",
+          "management_solution": "Offer palak paneer in small bowls to control portions."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Pesarattu",
+          "area_of_food_wasted": "30000",
+          "area_of_plate_total_area": "100000",
+          "percentage_of_food_wasted": "30%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "31",
+          "place_where_food_was_eaten": "Andhra Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Request a smaller size or share to avoid excess.",
+          "management_solution": "Serve smaller pesarattu sizes to avoid leftovers."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Chicken Kebab",
+          "area_of_food_wasted": "20000",
+          "area_of_plate_total_area": "80000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "36",
+          "place_where_food_was_eaten": "Outdoor Barbecue"
+        },
+        "query_output": {
+          "consumer_solution": "Start with a few pieces to gauge appetite.",
+          "management_solution": "Serve kebabs individually to control portions."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Sev Puri",
+          "area_of_food_wasted": "12000",
+          "area_of_plate_total_area": "60000",
+          "percentage_of_food_wasted": "20%",
+          "time_of_meal": "Evening Snack",
+          "age_of_person": "30",
+          "place_where_food_was_eaten": "Street Food Corner"
+        },
+        "query_output": {
+          "consumer_solution": "Order a half portion if appetite is small.",
+          "management_solution": "Serve sev puris individually for better control."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Biryani",
+          "area_of_food_wasted": "100000",
+          "area_of_plate_total_area": "500000",
+          "percentage_of_food_wasted": "20%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "45",
+          "place_where_food_was_eaten": "Corporate Event"
+        },
+        "query_output": {
+          "consumer_solution": "Request a small portion or share to avoid excess.",
+          "management_solution": "Offer biryani in customizable portions."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Dahi Puri",
+          "area_of_food_wasted": "15000",
+          "area_of_plate_total_area": "60000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Evening Snack",
+          "age_of_person": "29",
+          "place_where_food_was_eaten": "Street Vendor"
+        },
+        "query_output": {
+          "consumer_solution": "Order less if appetite is low.",
+          "management_solution": "Offer dahi puris individually to reduce waste."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Chicken 65",
+          "area_of_food_wasted": "20000",
+          "area_of_plate_total_area": "80000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "32",
+          "place_where_food_was_eaten": "Family Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Take fewer pieces if unsure about hunger level.",
+          "management_solution": "Offer Chicken 65 in smaller portions."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Veg Thali",
+          "area_of_food_wasted": "50000",
+          "area_of_plate_total_area": "300000",
+          "percentage_of_food_wasted": "16.6%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "48",
+          "place_where_food_was_eaten": "Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Request fewer items if appetite is low.",
+          "management_solution": "Offer smaller thali options to control waste."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Papdi Chaat",
+          "area_of_food_wasted": "10000",
+          "area_of_plate_total_area": "50000",
+          "percentage_of_food_wasted": "20%",
+          "time_of_meal": "Evening Snack",
+          "age_of_person": "26",
+          "place_where_food_was_eaten": "Stadium Snack Counter"
+        },
+        "query_output": {
+          "consumer_solution": "Start with a small portion to avoid excess.",
+          "management_solution": "Offer half-portion chaat options."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Idli Sambhar",
+          "area_of_food_wasted": "30000",
+          "area_of_plate_total_area": "90000",
+          "percentage_of_food_wasted": "33%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "27",
+          "place_where_food_was_eaten": "Office Canteen"
+        },
+        "query_output": {
+          "consumer_solution": "Opt for one idli at a time, as they’re filling.",
+          "management_solution": "Serve idlis individually, with a small portion of sambhar."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Chicken Tikka",
+          "area_of_food_wasted": "18000",
+          "area_of_plate_total_area": "70000",
+          "percentage_of_food_wasted": "26%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "40",
+          "place_where_food_was_eaten": "Food Court"
+        },
+        "query_output": {
+          "consumer_solution": "Order half portions of tikka pieces to reduce waste.",
+          "management_solution": "Serve in customizable portions to manage intake."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Chole Bhature",
+          "area_of_food_wasted": "40000",
+          "area_of_plate_total_area": "120000",
+          "percentage_of_food_wasted": "33%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "21",
+          "place_where_food_was_eaten": "University Canteen"
+        },
+        "query_output": {
+          "consumer_solution": "Order only one bhatura to avoid waste.",
+          "management_solution": "Offer bhature in single servings with refills."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Paneer Tikka",
+          "area_of_food_wasted": "25000",
+          "area_of_plate_total_area": "100000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "32",
+          "place_where_food_was_eaten": "Rooftop Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Take fewer pieces as paneer is heavy.",
+          "management_solution": "Serve individual pieces with option for more."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Mutton Biryani",
+          "area_of_food_wasted": "75000",
+          "area_of_plate_total_area": "250000",
+          "percentage_of_food_wasted": "30%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "38",
+          "place_where_food_was_eaten": "Family Gathering"
+        },
+        "query_output": {
+          "consumer_solution": "Request a smaller portion to prevent leftovers.",
+          "management_solution": "Provide biryani in smaller servings with refills."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Aloo Paratha",
+          "area_of_food_wasted": "15000",
+          "area_of_plate_total_area": "70000",
+          "percentage_of_food_wasted": "21%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "35",
+          "place_where_food_was_eaten": "Home Kitchen"
+        },
+        "query_output": {
+          "consumer_solution": "Take one paratha first and check hunger.",
+          "management_solution": "Serve smaller, single-serving parathas."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Prawn Curry",
+          "area_of_food_wasted": "28000",
+          "area_of_plate_total_area": "120000",
+          "percentage_of_food_wasted": "23%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "41",
+          "place_where_food_was_eaten": "Beachside Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Order half a portion as prawns are filling.",
+          "management_solution": "Serve smaller prawn curry bowls with refills."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Kesar Pista Kulfi",
+          "area_of_food_wasted": "10000",
+          "area_of_plate_total_area": "50000",
+          "percentage_of_food_wasted": "20%",
+          "time_of_meal": "Dessert",
+          "age_of_person": "30",
+          "place_where_food_was_eaten": "Festival Event"
+        },
+        "query_output": {
+          "consumer_solution": "Take a small serving to avoid leftovers.",
+          "management_solution": "Provide smaller kulfi sticks for portion control."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Poori Sabzi",
+          "area_of_food_wasted": "15000",
+          "area_of_plate_total_area": "60000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "28",
+          "place_where_food_was_eaten": "Temple Prasadam Hall"
+        },
+        "query_output": {
+          "consumer_solution": "Take two pooris first to gauge appetite.",
+          "management_solution": "Serve pooris individually to reduce waste."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Baigan Bharta",
+          "area_of_food_wasted": "30000",
+          "area_of_plate_total_area": "120000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "39",
+          "place_where_food_was_eaten": "Home"
+        },
+        "query_output": {
+          "consumer_solution": "Serve smaller portions as baigan bharta is rich.",
+          "management_solution": "Offer baigan bharta in small servings with refills."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Misal Pav",
+          "area_of_food_wasted": "22000",
+          "area_of_plate_total_area": "70000",
+          "percentage_of_food_wasted": "31%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "27",
+          "place_where_food_was_eaten": "Street Food Stall"
+        },
+        "query_output": {
+          "consumer_solution": "Request a smaller portion if trying for the first time.",
+          "management_solution": "Offer Misal Pav in single-pav servings."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Litti Chokha",
+          "area_of_food_wasted": "25000",
+          "area_of_plate_total_area": "100000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "33",
+          "place_where_food_was_eaten": "Village Feast"
+        },
+        "query_output": {
+          "consumer_solution": "Start with one litti if appetite is unsure.",
+          "management_solution": "Serve littis individually to manage portions."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Dhokla",
+          "area_of_food_wasted": "10000",
+          "area_of_plate_total_area": "50000",
+          "percentage_of_food_wasted": "20%",
+          "time_of_meal": "Tea Time",
+          "age_of_person": "50",
+          "place_where_food_was_eaten": "Home"
+        },
+        "query_output": {
+          "consumer_solution": "Take a smaller portion to avoid waste.",
+          "management_solution": "Provide dhokla in individual pieces for flexibility."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Pav Bhaji",
+          "area_of_food_wasted": "25000",
+          "area_of_plate_total_area": "90000",
+          "percentage_of_food_wasted": "27.7%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "29",
+          "place_where_food_was_eaten": "Street Vendor"
+        },
+        "query_output": {
+          "consumer_solution": "Start with one pav and add if needed.",
+          "management_solution": "Serve pav separately for better portion control."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Dal Baati Churma",
+          "area_of_food_wasted": "40000",
+          "area_of_plate_total_area": "150000",
+          "percentage_of_food_wasted": "27%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "48",
+          "place_where_food_was_eaten": "Rajasthan Trip"
+        },
+        "query_output": {
+          "consumer_solution": "Take a smaller serving initially as it’s heavy.",
+          "management_solution": "Serve baatis individually to reduce wastage."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Dum Chicken",
+          "area_of_food_wasted": "32000",
+          "area_of_plate_total_area": "110000",
+          "percentage_of_food_wasted": "29%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "46",
+          "place_where_food_was_eaten": "Wedding Ceremony"
+        },
+        "query_output": {
+          "consumer_solution": "Try a smaller portion to gauge appetite.",
+          "management_solution": "Serve in individual pots for better portion control."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Palak Paneer",
+          "area_of_food_wasted": "20000",
+          "area_of_plate_total_area": "80000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "30",
+          "place_where_food_was_eaten": "Home Cooked Meal"
+        },
+        "query_output": {
+          "consumer_solution": "Start with a small serving to avoid leftovers.",
+          "management_solution": "Serve in smaller bowls to manage portions."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Paneer Butter Masala",
+          "area_of_food_wasted": "45000",
+          "area_of_plate_total_area": "150000",
+          "percentage_of_food_wasted": "30%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "35",
+          "place_where_food_was_eaten": "Family Dinner"
+        },
+        "query_output": {
+          "consumer_solution": "Order half a portion if unsure of hunger.",
+          "management_solution": "Provide smaller containers for takeout."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Kadhi Pakora",
+          "area_of_food_wasted": "12000",
+          "area_of_plate_total_area": "60000",
+          "percentage_of_food_wasted": "20%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "27",
+          "place_where_food_was_eaten": "Office Canteen"
+        },
+        "query_output": {
+          "consumer_solution": "Serve one pakora at a time to gauge fullness.",
+          "management_solution": "Offer kadhi in smaller servings."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Cheese Naan",
+          "area_of_food_wasted": "15000",
+          "area_of_plate_total_area": "70000",
+          "percentage_of_food_wasted": "21%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "41",
+          "place_where_food_was_eaten": "Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Take one naan to start with; it's filling.",
+          "management_solution": "Serve cheese naan in smaller pieces."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Rogan Josh",
+          "area_of_food_wasted": "35000",
+          "area_of_plate_total_area": "120000",
+          "percentage_of_food_wasted": "29.2%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "50",
+          "place_where_food_was_eaten": "Indian Restaurant"
+        },
+        "query_output": {
+          "consumer_solution": "Consider a half portion to avoid waste.",
+          "management_solution": "Serve in individual bowls for easier portion control."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Vegetable Pulao",
+          "area_of_food_wasted": "24000",
+          "area_of_plate_total_area": "90000",
+          "percentage_of_food_wasted": "26.7%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "29",
+          "place_where_food_was_eaten": "Cafeteria"
+        },
+        "query_output": {
+          "consumer_solution": "Start with a small portion to gauge hunger.",
+          "management_solution": "Serve in smaller containers with a limit on servings."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Puri with Chole",
+          "area_of_food_wasted": "28000",
+          "area_of_plate_total_area": "100000",
+          "percentage_of_food_wasted": "28%",
+          "time_of_meal": "Lunch",
+          "age_of_person": "38",
+          "place_where_food_was_eaten": "Home Kitchen"
+        },
+        "query_output": {
+          "consumer_solution": "Start with two puris to check fullness.",
+          "management_solution": "Serve puris individually with a small bowl of chole."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Aloo Gobi",
+          "area_of_food_wasted": "15000",
+          "area_of_plate_total_area": "60000",
+          "percentage_of_food_wasted": "25%",
+          "time_of_meal": "Dinner",
+          "age_of_person": "33",
+          "place_where_food_was_eaten": "Friends' Gathering"
+        },
+        "query_output": {
+          "consumer_solution": "Start with a small serving of aloo gobi.",
+          "management_solution": "Serve in smaller portions for better control."
+        }
+      },
+      {
+        "query": {
+          "fooditem": "Methi Thepla",
+          "area_of_food_wasted": "18000",
+          "area_of_plate_total_area": "80000",
+          "percentage_of_food_wasted": "22.5%",
+          "time_of_meal": "Breakfast",
+          "age_of_person": "26",
+          "place_where_food_was_eaten": "Café"
+        },
+        "query_output": {
+          "consumer_solution": "Try one thepla first; they are quite filling.",
+          "management_solution": "Serve in smaller stacks for portion control."
+        }
+      }
+  
+]
