@@ -15,7 +15,7 @@ export default function HeroSection() {
             smarter choices with AI-driven insights for a sustainable and
             waste-free future.
           </p>
-          <Link href="/">
+          <Link href="https://xdre8yke6nc2keph4gxd9m.streamlit.app/">
             <button className={"uppercase " + styles.try_now}>
               <span>Try Now</span>
             </button>
