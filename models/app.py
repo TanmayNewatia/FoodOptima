@@ -4,7 +4,7 @@ import json
 import matplotlib.pyplot as plt
 
 # Load data
-with open("foodreportdata.txt", "r") as file:
+with open("data/foodreportdata.txt", "r") as file:
     data = json.load(file)
 
 def process_data(data):
