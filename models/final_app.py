@@ -12,8 +12,8 @@ import cv2
 import numpy as np
 from google.colab.patches import cv2_imshow # Import cv2_imshow
 
-model = pickle.load(open('food_detection.sav','rb'))
 tokenizer = pickle.load(open('food_waste_tokenizer.pkl','rb'))
+model = pickle.load(open('food_detection.sav','rb'))
 solution_model = pickle.load(open('food_waste_model.pkl','rb'))
 allFoodItems={0: 'adhirasam', 1: 'aloo_gobi', 2: 'aloo_matar', 3: 'aloo_methi', 4: 'aloo_shimla_mirch', 5: 'aloo_tikki', 6: 'anarsa', 7: 'ariselu', 8: 'bandar_laddu', 9: 'basundi', 10: 'bhatura', 11: 'bhindi_masala', 12: 'biryani', 13: 'boondi', 14: 'butter_chicken', 15: 'chak_hao_kheer', 16: 'cham_cham', 17: 'chana_masala', 18: 'chapati', 19: 'chhena_kheeri', 20: 'chicken_razala', 21: 'chicken_tikka', 22: 'chicken_tikka_masala', 23: 'chikki', 24: 'daal_baati_churma', 25: 'daal_puri', 26: 'dal_makhani', 27: 'dal_tadka', 28: 'dharwad_pedha', 29: 'doodhpak', 30: 'double_ka_meetha', 31: 'dum_aloo', 32: 'gajar_ka_halwa', 33: 'gavvalu', 34: 'ghevar', 35: 'gulab_jamun', 36: 'imarti', 37: 'jalebi', 38: 'kachori', 39: 'kadai_paneer', 40: 'kadhi_pakoda', 41: 'kajjikaya', 42: 'kakinada_khaja', 43: 'kalakand', 44: 'karela_bharta', 45: 'kofta', 46: 'kuzhi_paniyaram', 47: 'lassi', 48: 'ledikeni', 49: 'litti_chokha', 50: 'lyangcha', 51: 'maach_jhol', 52: 'makki_di_roti_sarson_da_saag', 53: 'malapua', 54: 'misi_roti', 55: 'misti_doi', 56: 'modak', 57: 'mysore_pak', 58: 'naan', 59: 'navrattan_korma', 60: 'palak_paneer', 61: 'paneer_butter_masala', 62: 'phirni', 63: 'pithe', 64: 'poha', 65: 'poornalu', 66: 'pootharekulu', 67: 'qubani_ka_meetha', 68: 'rabri', 69: 'ras_malai', 70: 'rasgulla', 71: 'sandesh', 72: 'shankarpali', 73: 'sheer_korma', 74: 'sheera', 75: 'shrikhand', 76: 'sohan_halwa', 77: 'sohan_papdi', 78: 'sutar_feni', 79: 'unni_appam'}
 
@@ -27,7 +27,7 @@ def process_image(img_path):
     fooditem=allFoodItems[predicted_class_index]
     return fooditem
 
-def calculate_food_area(image_path="OIP (2).jpg"):
+def calculate_food_area(image_path="OIP (1).jpg"):
     # Step 1: Load the image
     image = cv2.imread(image_path)
     if image is None:
@@ -70,11 +70,27 @@ def calculate_food_area(image_path="OIP (2).jpg"):
     return [total_area,total_image_area]
 
 # Example usage
-food_item = process_image("OIP (2).jpg")
+food_item = process_image("OIP (1).jpg")
 food_area = calculate_food_area()
 area_of_food_wasted=food_area[0]
 area_of_plate_total_area=food_area[1]
 percentage_of_food_wasted=total_area/total_image_area*100
-query=f"Total Food Area: {total_area} pixels, Total Image Area: {total_image_area}, Total Wastage Percentage: {total_wastage_percentage}"
-input_tokens = tokenizer(test_query, return_tensors="pt", max_length=512, truncation=True)
-print(input_tokens)
+query=f"area_of_food_wasted: {area_of_food_wasted}, area_of_plate_total_area: {area_of_plate_total_area}, percentage_of_food_wasted: {percentage_of_food_wasted}, Time of meal: Dinner, Age: 38, Place: Work Cafeteria"
+
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+solution_model = solution_model.to(device)
+
+def generate_solution(query_input):
+    solution_model.eval()
+
+    input_tokens = tokenizer(query_input, return_tensors="pt", max_length=512, truncation=True)
+    input_ids = input_tokens["input_ids"].to(device)
+    attention_mask = input_tokens["attention_mask"].to(device)
+
+    output_tokens = solution_model.generate(input_ids=input_ids, attention_mask=attention_mask, max_length=100)
+    generated_text = tokenizer.decode(output_tokens[0], skip_special_tokens=True)
+
+    return generated_text
+
+print(query)
+print(generate_solution(query))
